@@ -4,5 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of file.
 Stupid
 Creating a new branch is quick.
-cre2
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
+
