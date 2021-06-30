@@ -5,3 +5,4 @@ Git tracks changes of file.
 Stupid
 Creating a new branch is quick.
 cre2
+Creating a new branch is quick AND simple.
