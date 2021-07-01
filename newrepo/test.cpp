@@ -8,4 +8,5 @@ int main()
     {
         std::cout<<a[i]<<std::endl;
     }
+    std::cout<<a[2]<<std::endl;
 }
